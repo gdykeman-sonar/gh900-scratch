@@ -1,0 +1,8 @@
+# Default owner for everything in the repository.
+# Code owners are requested for review automatically on pull requests.
+*                      @gdykeman
+
+# Community health and repository configuration.
+/.github/              @gdykeman
+/SECURITY.md           @gdykeman
+/CONTRIBUTING.md       @gdykeman
